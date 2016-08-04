@@ -4,8 +4,15 @@
         <description><![CDATA[Waste(d) Art]]></description>
         <link>https://thegrid.ai/wasted-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 02:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 03:47:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wasted-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[See something worth sharing?]]></title>
+            <description><![CDATA[<article><h1>See something worth sharing?</h1><h2>This site takes submissions. </h2><p>Please take high quality images and make sure that content is not overly offensive. Funny > vulgar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67db5944b5f9e94718eae10ee47a232a/croprotate.jpg?cropheight=3263&cropwidth=4928&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F233034c5-db1a-492d-9d1f-a5db5d3ea73a.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/233034c5-db1a-492d-9d1f-a5db5d3ea73a.jpg</link>
+            <guid isPermaLink="false">8beed67c-f25b-471e-a977-8c5d94b33c8c</guid>
+            <pubDate>Thu, 04 Aug 2016 03:47:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3898011a-19fb-4c89-b5ce-1ecb59915946.jpg">]]></description>
