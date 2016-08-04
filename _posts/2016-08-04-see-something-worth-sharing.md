@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-08-04T03:47:38.951Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/233034c5-db1a-492d-9d1f-a5db5d3ea73a.jpg
+datePublished: '2016-08-04T03:48:31.256Z'
 author: []
 via: {}
-dateModified: '2016-08-04T03:45:46.161Z'
+dateModified: '2016-08-04T03:48:30.845Z'
 title: See something worth sharing?
 publisher: {}
 description: >-
   Please take high quality images and make sure that content is not overly
   offensive. Funny > vulgar.
-starred: false
 sourcePath: _posts/2016-08-04-see-something-worth-sharing.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: see-something-worth-sharing/index.html
 _type: MediaObject
 
 ---
