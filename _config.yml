@@ -1,4 +1,3 @@
-layout_spectrum: 0.9823829140514135
 typography_spectrum: 0.25718522956594825
 color:
   brandStrength: 0.07477117097005248
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.9823829140514135
 name: Wasted Art
 title: Waste(d) Art
+description: Documenting dialogue and art in portable bathrooms.
