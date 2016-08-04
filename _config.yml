@@ -1,4 +1,4 @@
-typography_spectrum: 0.9202124990988523
+typography_spectrum: 0.056278347270563245
 color:
   brandStrength: 0.6909757400862873
   lightness: 0.34783843834884465
@@ -10,7 +10,7 @@ color:
     - '#111312'
     - '#A01D15'
     - '#435233'
-layout_spectrum: 0.9823829140514135
+layout_spectrum: 0.3054445590823889
 author:
   email: wastedartsite@gmail.com
 name: Wasted Art
