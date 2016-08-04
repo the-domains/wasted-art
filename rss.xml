@@ -4,7 +4,7 @@
         <description><![CDATA[Waste(d) Art]]></description>
         <link>https://thegrid.ai/wasted-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 02:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 02:22:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wasted-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/wasted-art/0b745517-3887-4426-a4c7-4e06f5aa5029/index.html</link>
             <guid isPermaLink="false">0b745517-3887-4426-a4c7-4e06f5aa5029</guid>
             <pubDate>Thu, 04 Aug 2016 02:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wild Shape-Shifting Sofa Can Be Whatever You Want It to Be]]></title>
+            <description><![CDATA[<article><h1>Wild Shape-Shifting Sofa Can Be Whatever You Want It to Be</h1><p>Carlo Ratti, who founded MIT's forward-thinking Senseable City Lab, has designed a sofa called Lift-Bit. It is on display at La Triennale in Milan, where innumerable furniture-makers showcase their work in an annual design fair. Sofas (and chairs, for that matter) at Salone del Mobile are like fish in an aquarium: plentiful and beautiful, but, after a while, hard to discern.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/878c309bc4bb2576485cf628acdf5521363f1166.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/wild-shape-shifting-sofa-can-whatever-want/</link>
+            <guid isPermaLink="false">bd3e2986-a1c1-4994-bd60-528c8935db0a</guid>
+            <pubDate>Thu, 04 Aug 2016 02:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
