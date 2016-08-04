@@ -18,6 +18,9 @@ navigation:
   - name: Submit
     id: 8beed67c-f25b-471e-a977-8c5d94b33c8c
     type: content
+  - name: About
+    id: 75ab7446-aaac-4915-a8d7-ac3f2d835d0b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8250109-4536-4558-b5ec-e7f94748fc65.gif
 title: Waste(d) Art
