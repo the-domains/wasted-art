@@ -1,15 +1,15 @@
-typography_spectrum: 0.25718522956594825
+typography_spectrum: 0.9480348287615925
 color:
-  brandStrength: 0.07477117097005248
-  lightness: 0.13899598852731287
-  saturation: 0.051917926175519824
-  rhythmicContrast: 0.9827668843790889
+  brandStrength: 0.6909757400862873
+  lightness: 0.34783843834884465
+  saturation: 0.45856391871348023
+  rhythmicContrast: 0.8807354394812137
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFEFA'
+    - '#ADB3B3'
+    - '#111312'
+    - '#A01D15'
+    - '#435233'
 layout_spectrum: 0.9823829140514135
 author:
   email: wastedartsite@gmail.com
