@@ -1,16 +1,16 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: Pokemon Go
-dateModified: '2016-08-09T13:59:03.338Z'
-publisher: {}
-author: []
-inFeed: true
-description: Polls reveal popular opinion
-via: {}
-datePublished: '2016-08-09T13:59:08.533Z'
-starred: false
+datePublished: '2016-08-15T06:19:18.660Z'
 sourcePath: _posts/2016-08-09-pokemon-go.md
+inFeed: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-15T06:19:17.972Z'
+title: Pokemon Go
+publisher: {}
+at__context: 'http://schema.org'
+description: Polls reveal popular opinion
+starred: false
 _type: Blurb
 
 ---
