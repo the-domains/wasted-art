@@ -1,14 +1,14 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: ''
-dateModified: '2016-08-31T14:08:16.822Z'
-publisher: {}
-author: []
+datePublished: '2016-08-31T14:18:44.698Z'
 inFeed: true
-description: Views on co-workers
+author: []
+at__type: Article
 via: {}
-datePublished: '2016-08-31T14:08:23.690Z'
+dateModified: '2016-08-31T14:18:44.173Z'
+title: ''
+publisher: {}
+at__context: 'http://schema.org'
+description: Views on co-workers
 starred: false
 sourcePath: _posts/2016-08-31-views-on-co-workers.md
 _type: Blurb
